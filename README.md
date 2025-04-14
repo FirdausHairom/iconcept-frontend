@@ -1,7 +1,7 @@
 # app
 
 Front-end application for products listing using Vuejs version 3. 
-Please run setup and run back-end system first.
+Please setup and run back-end system first.
 
 ## Project Setup
 
